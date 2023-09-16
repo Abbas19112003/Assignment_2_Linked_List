@@ -1,0 +1,51 @@
+List: [10]
+List: [10, 20]
+List: [10, 5, 20]
+List: [10, 15, 5, 20]
+List: [10, 15, 5, 20, 30]
+10
+Cursor moved forward 1 step(s).
+List: [10, 15, 25, 5, 20, 30]
+Cursor moved forward 2 step(s).
+List: [10, 15, 25, 5, 35, 20, 30]
+Cursor moved backward 1 step(s).
+List: [10, 15, 25, 12, 5, 35, 20, 30]
+25
+List: [10, 15, 12, 5, 35, 20, 30]
+12
+List: [10, 15, 40, 12, 5, 35, 20, 30]
+40
+Cursor moved backward 2 step(s).
+List: [10, 50, 15, 40, 12, 5, 35, 20, 30]
+List: [10, 60, 50, 15, 40, 12, 5, 35, 20, 30]
+10
+List: [10, 50, 15, 40, 12, 5, 35, 20, 30]
+10
+List: [10, 15, 40, 12, 5, 35, 20, 30]
+10
+List: [15, 10, 40, 12, 5, 35, 20, 30]
+Cursor moved forward 2 step(s).
+40
+List: [15, 10, 45, 12, 5, 35, 20, 30]
+Cursor moved forward 1 step(s).
+List: [15, 10, 45, 12, 5, 35, 20]
+12
+List: [15, 10, 45, 12, 70, 5, 35, 20]
+12
+Cursor moved backward 3 step(s).
+15
+Cursor moved forward 2 step(s).
+List: [15, 10, 45, 80, 12, 70, 5, 35, 20]
+List: [55, 10, 45, 80, 12, 70, 5, 35, 20]
+45
+Cursor moved backward 2 step(s).
+List: [10, 45, 80, 12, 70, 5, 35, 20]
+10
+List: [55, 10, 45, 80, 12, 70, 5, 35, 20]
+55
+List: [55, 10, 45, 80, 12, 70, 5, 35, 20, 90]
+List: [55, 10, 45, 100, 80, 12, 70, 5, 35, 20, 90]
+Cursor moved forward 5 step(s).
+Cursor moved backward 2 step(s).
+List: [55, 10, 45, 80, 12, 70, 5, 35, 20, 90]
+80
